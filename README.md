@@ -5,6 +5,7 @@ nothing can thrive without a consistent and eligible data. So i'm working toward
 ## My projects
 
 - [Nigerian States and LGAs Population Analysis Using MySQL](https://github.com/LindaDanalyst14/Nigerian-States-and-LGAs-Population-Analysis-Using-MYSQL)
+-  ⁠📊 [Nigeria Road Traffic Accidents Excel Dashboard](https://github.com/LindaDanalyst14/Nigerian-Road-Traffic-Accidents-Excel-Dashboard)
 
 ## Currently learning
 python
