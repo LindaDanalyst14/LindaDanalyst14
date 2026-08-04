@@ -1,16 +1,14 @@
-## Hi there 👋 my name 
+## Hi there 👋 my name is Linda
+I am a data analyst skilled with the use of Excel, PowerBI, Google sheets and SQL.
+nothing can thrive without a consistent and eligible data. So i'm working towards being a part of the solution, I want to be able to create insights and find the solution that helps to move companies, establishments and countries forward.
 
-<!--
-**LindaDanalyst14/LindaDanalyst14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My projects
+Nigrian states and LGAs population Analysis using MYSQL.{....}
 
-Here are some ideas to get you started:
+## Currently learning
+python
+tablue
+advanced SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Lets connect
+Linkedln {https://www.linkedin.com/in/lindaonyenwe?utm_source=share_via&utm_content=profile&utm_medium=member_ios}
