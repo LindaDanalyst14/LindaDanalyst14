@@ -3,7 +3,7 @@ I am a data analyst skilled with the use of Excel, PowerBI, Google sheets and SQ
 nothing can thrive without a consistent and eligible data. So i'm working towards being a part of the solution, I want to be able to create insights and find the solution that helps to move companies, establishments and countries forward.
 
 ## My projects
-Nigrian states and LGAs population Analysis using MYSQL.{https://github.com/LindaDanalyst14/Nigerian-States-and-LGAs-Population-Analysis-Using-MYSQL}
+[Nigrian states and LGAs population Analysis using MYSQL].{https://github.com/LindaDanalyst14/Nigerian-States-and-LGAs-Population-Analysis-Using-MYSQL}
 
 ## Currently learning
 python
